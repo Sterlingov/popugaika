@@ -1,0 +1,47 @@
+#logo {
+  color: green; font-size: 55px; font-family: monospace; text-decoration: underline; font-weight: bold;
+}
+
+#stat {
+  color: green; font-size: 50px; font-family: sans-serif; text-decoration: underline; text-transform: uppercase; padding: 10px 30px; display: block; text-align: center; margin:10px; line-height: 300%; border-radius: 10px;
+}
+
+#for {
+  color: green; font-size: 50px; font-family: sans-serif; text-decoration: underline; text-align: center; text-transform: uppercase; line-height: 300%; padding: 10px 30px; border-radius: 5px; display: block; margin:10px;
+}
+
+#about {
+  color: green; font-size: 50px; font-family: sans-serif; text-decoration: underline; text-align: center; text-transform: uppercase; line-height: 300%; padding: 10px 30px; border-radius: 5px; display: block; margin:10px;
+}
+
+#stat:hover {
+  color: grey
+}
+
+#for:hover {
+  color: grey
+}
+
+#about:hover {
+  color: grey
+}
+
+body {
+  background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEhUSEhIVFRUVFxUVFxcVFRcVFxcVFRUXFxcVFxcYHSggGBolHRcVITEhJSkrLi4uFx8zODMtNygtLisBCgoKBQUFDgUFDisZExkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAMgAyAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAAAQIDB//EACAQAQEBAQABAwUAAAAAAAAAAAABEQJBcZHwEiExUbH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A9i651h0TqAwIoAgCggKAAsiSNArNUgMhYACAKGgAIC6DfMwDnlQANQA6jm6J1AY0NABFAWEigaaAAigrNgugyLYgAAAN884BzyoAKgAIAKgCdTWW9TrkGSQkUDQQFBAURQAQFSxTQRNWxqT3AkxQAVNAAAQ0AAAXSEAOprDZ1yDAGgFRQNEAU1AFCNcz3BeZhRdBk0sAAAAAQABZCRaAmKgC6gB1z5YbOoDBqGgpqAKI3JgLOc9VQBUAFSwJQQLAAEA1ZCRdANNQFNRQAAAATrnyw6M9TzAZE105mfPwBJnr/F0ABAF0AAEBZUougyL1EBqxGmbADQBUAA0AAABHTnkE+jz5ZdE6gMaAAAAaaAaAACwCCgAhoJYLEsBAAUQABvmYCyKgCiaAdc65uidTQZQIAqAALIBI0gAqAIqAC6gCWCypYAI3zM9QXmYqAKWoAogCiAHXLm6J1N+8BlBZAJGtQAVAAAAQAEUAlG+Znz8ATnPnz7ipYAIYAqAKIAogAqQkBbzrOtp1AYEUAAAQAghoKI6czAJFRQCVACxGtSwBA0DVQBU0WQCRaAIsogHUYdNTqaDAFAogAI6c856gvM9wAFTQAAAKAliVpLABFkAka1AARQAACACdRh0TrkGBFBrmY0gCoAAAKACAAoAJ9K6ACACiACgCKAIoAz1z+gAf/9k=);
+}
+
+#spisok {
+  color: green; font-size: 52px; font-family: sans-serif; text-align: center; text-transform: uppercase;
+}
+
+#statja {
+  color: green; font-size: 40px; font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#statja:hover {
+  color: grey; border: 3px solid green; padding: 10px;
+}
